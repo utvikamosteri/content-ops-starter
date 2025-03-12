@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Utvika Mosteri - ren smak av nordisk natur, edle epleso'
+      text: >-
+        Utvika Mosteri - ren smak av nordisk natur, edle eplesorter og naturlig
+        modning
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
